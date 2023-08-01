@@ -27,6 +27,7 @@
     <NavLi href="#/about">About</NavLi>
     <NavLi href="#/articles">Articles</NavLi>
     <NavLi href="#/todos">Todos</NavLi>
+    <NavLi href="#/plaintexteditor">Plain Text Editor</NavLi>
     <NavLi href="#/contact">Contact</NavLi>
   </NavUl>
   <DarkMode />
